@@ -1,0 +1,45 @@
+# ── Large data files (challenge dataset — DO NOT push) ──
+candidates.jsonl
+candidates.jsonl.gz
+
+# ── Your submission output ──
+team_xxx.csv
+team_Mindsync.csv
+*.submission.csv
+
+# ── Official challenge docs (from zip — copyright) ──
+job_description.docx
+redrob_signals_doc.docx
+submission_spec.docx
+README.docx
+
+# ── macOS artifacts ──
+.DS_Store
+__MACOSX/
+
+# ── Python cache ──
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# ── Virtual environments ──
+venv/
+env/
+.env/
+.venv/
+
+# ── IDE files ──
+.vscode/
+.idea/
+*.swp
+
+# ── Model cache (HuggingFace downloads — large) ──
+.cache/
+models/
+*.bin
+*.safetensors
+
+# ── Logs ──
+*.log
