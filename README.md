@@ -174,5 +174,5 @@ No candidate data was fed to any LLM API during ranking. All ranking is done loc
 
 ## Author
 
-- Lakshay Verma
+- Lakshay Verma (Team Lead)
 - Khushi Sharma
