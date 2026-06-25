@@ -23,7 +23,7 @@ team_members:
 # ============================================================================
 github_repo: "https://github.com/lakshay5928/redrob-ranker"
 
-sandbox_link: "https://huggingface.co/spaces/YOUR_USERNAME/redrob-ranker"
+sandbox_link: "https://huggingface.co/spaces/lakshay59/redrob-ranker"
 
 reproduce_command: "python src/rank.py --candidates ./candidates.jsonl --out ./team_MindSync.csv"
 
