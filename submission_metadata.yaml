@@ -37,7 +37,7 @@ compute:
   python_version: "3.12"
   os: "Windows 11"
   uses_gpu_for_inference: false
-  has_network_during_ranking: false
+  has_network_during_ranking: true
   pre_computation_required: false
   pre_computation_time_minutes: 0
 
